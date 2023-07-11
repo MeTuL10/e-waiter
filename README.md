@@ -23,7 +23,7 @@ Go to the project directory
 ```
 Edit the following command in the 3 scripts, add credentials
 ```Python
-mydb=msql.connect(host='localhost',user='root',passwd='user123')
+mydb=msql.connect(host='',user='',passwd='')
 ```
 Run the scripts in the following order
 ```bash
